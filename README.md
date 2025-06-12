@@ -72,54 +72,6 @@ Sou uma desenvolvedora em formação, cursando **Análise e Desenvolvimento de S
 
 ---
 
-## 📂 Meus Projetos em Destaque
-
-
-
-### 📌 [Nome do Projeto 1](LINK_DO_REPOSITORIO_1)
-<p>
-  <em>Uma breve descrição do projeto, o problema que ele resolve, sua principal funcionalidade e o impacto (se houver).</em>
-  <br/>
-  <strong>Tecnologias Utilizadas:</strong> React, Node.js, MongoDB, API X.
-  <br/>
-  <a href="LINK_DO_DEPLOY_SE_HOUVER_1" target="_blank"><strong>🚀 Ver Projeto Online »</strong></a>
-  <!-- Você pode adicionar um screenshot ou gif aqui: -->
-  <!-- <img src="link_para_screenshot_ou_gif.gif" alt="Nome do Projeto 1" width="400"/> -->
-</p>
-
----
-
-### 📌 [Nome do Projeto 2](LINK_DO_REPOSITORIO_2)
-<p>
-  <em>Outra breve descrição. Foque nos desafios e aprendizados.</em>
-  <br/>
-  <strong>Tecnologias Utilizadas:</strong> Python, Flask, TensorFlow.
-</p>
-
-
----
-### 📌 [Nome do Projeto 3](LINK_DO_REPOSITORIO_2)
-<p>
-  <em>Outra breve descrição. Foque nos desafios e aprendizados.</em>
-  <br/>
-  <strong>Tecnologias Utilizadas:</strong> Python, Flask, TensorFlow.
-</p>
-
-<!-- Adicione mais projetos conforme necessário -->
-
----
-
-### 📌 [Nome do Projeto 4](LINK_DO_REPOSITORIO_2)
-<p>
-  <em>Outra breve descrição. Foque nos desafios e aprendizados.</em>
-  <br/>
-  <strong>Tecnologias Utilizadas:</strong> Python, Flask, TensorFlow.
-</p>
-
-
-
-
-
 ## 📫 Conecte-se Comigo
 
 <p align="center">
